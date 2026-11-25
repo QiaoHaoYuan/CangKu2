@@ -9,7 +9,3 @@
 - 🧩 也能作为 Fish Pocket Mini App 运行：[timetable/App.jsx](timetable/App.jsx)
 
 ---
-
-# CangKu2
-
-这是 Qiao 的仓库，平时放 C++ 练习和游戏 demo。
