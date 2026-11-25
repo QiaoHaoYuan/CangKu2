@@ -1,0 +1,16 @@
+{
+  "name": {
+    "zh-Hans": "课表",
+    "zh-Hant": "課表",
+    "en": "Timetable",
+    "ja": "時間割"
+  },
+  "icon": "📚",
+  "color": "#4F6BFF",
+  "description": {
+    "zh-Hans": "一周的课，一格一格看清楚",
+    "zh-Hant": "一週的課，一格一格看清楚",
+    "en": "Your week of classes at a glance",
+    "ja": "1週間の授業をひと目で"
+  }
+}
